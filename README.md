@@ -4,7 +4,7 @@
 - 💞️ procuro contribuir com a minha comunidade 
 
 <div>
-  <a href="https://github.com/ellen2121">
+  <a href="https://github.com/thatianeormindo">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=thatianeormindo&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatianeormindo&layout=compact&langs_count=7&theme=merko" />
   
