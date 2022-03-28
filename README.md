@@ -1,7 +1,7 @@
 ###  👋 Ola, meu nome é Thatiane Ormindo
-- 💻 Estudo Front end 
-- 🎮 tenho praticado codigo com games
-- 💞️ procuro contribuir com a minha comunidade 
+- 💻 por enquanto estudo a base do Front end; curso em video e freecodecamp
+- 🎮 tenho praticado codigo com games...
+- 💚 procuro evoluir todos os dias para poder contribuir com a minha comunidade 
 
 <div>
   <a href="https://github.com/thatianeormindo">
