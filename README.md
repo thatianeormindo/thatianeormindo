@@ -1,9 +1,9 @@
-# Ola, meu nome é Thatiane Ormindo 
+# Ola, meu nome é Thatiane Malheiros
 ![desenvolvedor](https://res.cloudinary.com/practicaldev/image/fetch/s--YbKj6uRx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/v4659zugeywweiog60dr.jpg)
 
- - 💻 Autodidata estudo a base Front-end assistindo aulas no curso em video... 
- - 🎮 pratico codigo com games por diversão...  
- - 💚 procuro evoluir todos os dias para poder contribuir com a comunidade de tech... 
+ - 💻 Autodidata Front-end  
+ - 🎮 pratico codigo com games por diversão 
+ - 💚 bem vindo ao meu laboratorio de ideias 
  
 ## Minhas STACK
    <div style="display: inline_block"><br>
