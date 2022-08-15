@@ -1,6 +1,3 @@
-# Ola, meu nome é Thatiane Malheiros
-![desenvolvedor](https://res.cloudinary.com/practicaldev/image/fetch/s--YbKj6uRx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/v4659zugeywweiog60dr.jpg)
-
  - 💻 Autodidata Dev Web Front-End  
  - 🎮 Me empolgo em codar games, espia meu repositorio
  - 💚 bem vindo ao meu laboratorio de ideias 
