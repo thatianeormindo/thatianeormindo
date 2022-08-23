@@ -1,6 +1,11 @@
- - 💻 Autodidata Dev Web Front-End  
- - 🎮 Me empolgo em codar games, espia meu repositorio
- - 💚 bem vindo ao meu laboratorio de ideias 
+ 
+ ### Ola, eu sou a Thati 🗿
+ 
+ - 💸 Sou estudante em Gestão Financeira
+ - 🔭 Sou autodidata na programação
+ - 💬 Pergunte-me sobre qualquer coisa
+ - 📫 Como me contatar: thatianeormindo@gmail.com
+ - ⚡ Curiosidade: Sou mãe de dois gatos com nome de lobo; Nymeria e Fantasma 
  
  
 ### Meus contatos
