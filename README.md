@@ -1,11 +1,11 @@
  
- ### Ola, eu sou a Thati 🗿
+ ### Ola, eu sou a Thati! 
  
- - 💸 Sou estudante em Gestão Financeira
- - 🔭 Sou autodidata na programação
- - 💬 Pergunte-me sobre qualquer coisa
+ - 💸 Sou estudante em Gestão Financeira.
+ - 🔭 Sou autodidata na programação.
+ - 💬 Pergunte-me sobre qualquer coisa.
  - 📫 Como me contatar: thatianeormindo@gmail.com
- - ⚡ Curiosidade: Sou mãe de dois gatos com nome de lobo; Nymeria e Fantasma 
+ - ⚡ Curiosidade: Sou mãe de dois gatos com nome de lobo; Nymeria e Fantasma. 
  
  
 ### Meus contatos
