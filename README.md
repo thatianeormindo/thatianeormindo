@@ -1,5 +1,5 @@
  
- ### 👋 Ola, sou a Thati, sou desenvolvedora front-end em busca do meu primeiro sim na area
+ ### 👋 Ola, sou a Thati, sou desenvolvedora front-end 
  
  - 💸 Sou estudante em Gestão Financeira.
  - 🔭 Sou autodidata na programação.
