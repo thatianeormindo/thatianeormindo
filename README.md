@@ -1,5 +1,5 @@
  
- ### Ola, sou a Thati! 
+ ### 👋 Ola, sou a Thati! 
  
  - 💸 Sou estudante em Gestão Financeira.
  - 🔭 Sou autodidata na programação.
