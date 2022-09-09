@@ -1,12 +1,13 @@
  
  # 👋 Ola, sou a Thati, sou desenvolvedora front-end 
  
+ 
  - 💸 Sou estudante em Gestão Financeira.
  - 🔭 Sou autodidata na programação.
  - 💬 Pergunte-me sobre qualquer coisa.
- - 📫 Como me contatar: thatianeormindo@gmail.com
+ - 📫 Como me contatar: <thatianeormindo@gmail.com>
  - ⚡ Curiosidade: Sou mãe de dois gatos com nome de lobo; Nymeria e Fantasma. 
- - 🚀 Estou participando do Challenge [#100DaysOfCode](https://github.com/thatianeormindo/100-days-of-code/blob/master/log.md)
+ - 🚀 Estou participando do Challenge [#100DaysOfCode](https://github.com/thatianeormindo/100-days-of-code/blob/master/log.md) data de inicio 09/09/2022
  
 ## 💬 Outras redes socias
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
