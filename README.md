@@ -1,7 +1,6 @@
  
  # 👋 Ola, sou a Thati, sou desenvolvedora front-end 
- 
- 
+ ***
  - 💸 Sou estudante em Gestão Financeira.
  - 🔭 Sou autodidata na programação.
  - 💬 Pergunte-me sobre qualquer coisa.
@@ -10,6 +9,7 @@
  - 🚀 Estou participando do Challenge [#100DaysOfCode](https://github.com/thatianeormindo/100-days-of-code/blob/master/log.md) data de inicio 09/09/2022
  
 ## 💬 Outras redes socias
+***
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
 [![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](21993571811)
@@ -18,6 +18,7 @@
  
  
 ## 🛠️ Tech skills
+***
 [![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![Tyscript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
 [![javascript](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
