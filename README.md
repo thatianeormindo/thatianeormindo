@@ -1,5 +1,5 @@
  
- # 👋 Ola pode me chamar de **Thati**, eu sou **desenvolvedor(a)** front-end 
+ # 👋 Ola sou a **Thati** sou **desenvolvedor(a)** front-end 
  ***
  - 💸 Sou **estudante** em **Gestão Financeira**.
  - 🔭 Sou **autodidata** na **programação**.
