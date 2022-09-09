@@ -5,8 +5,10 @@
  - 💻 Sou **autodidata** na **programação**.
  - 💬 Pergunte-me sobre qualquer coisa.
  - 📫 Como me contatar: <thatianeormindo@gmail.com>
- - ⚡ **Curiosidade**: Sou mãe de dois gatos com nome de lobo; **Nymeria** e **Fantasma**. 
- - 🚀 Estou participando do **Challenge** [#100DaysOfCode](https://github.com/thatianeormindo/100-days-of-code/blob/master/log.md) data de inicio 09/09/2022
+ - 🐈 **Curiosidade1**: Sou mãe de dois gatos com nome de lobo; **Nymeria** e **Fantasma**.
+ - 🎧 **Curiosidade2**: Amo codar ouvindo musica. Na realidade eu amo musica em tudo. 
+ - 🎮  **Curiosidade3**: Me convide para live, partida online, jogos de tiro, sobrevivencia etc.
+ - 🚀 Estou participando do **Challenge** [#100DaysOfCode](https://github.com/thatianeormindo/100-days-of-code/blob/master/log.md) data de inicio 09/09/2022 meu objetivo é colocar em pratica o conteudo aprendido em aplicações porque assim vou poder observar e mostrar minha evolução.
  
 ## 💬 Outras redes socias
 ***
