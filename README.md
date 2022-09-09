@@ -6,7 +6,7 @@
  - 💬 Pergunte-me sobre qualquer coisa.
  - 📫 Como me contatar: thatianeormindo@gmail.com
  - ⚡ Curiosidade: Sou mãe de dois gatos com nome de lobo; Nymeria e Fantasma. 
- - 🚀 Estou participando do Challenge [#100DaysOfCode](https://github.com/thatianeormindo/100-days-of-code)
+ - 🚀 Estou participando do Challenge [#100DaysOfCode](https://github.com/thatianeormindo/100-days-of-code/blob/master/log.md)
  
 ## 💬 Outras redes socias
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
