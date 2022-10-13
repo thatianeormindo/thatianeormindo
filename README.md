@@ -2,7 +2,7 @@
  # 👋 Ola sou a **Thati** sou **desenvolvedor(a)** front-end 
  ***
  - 💸 Sou **estudante** em **Gestão Financeira**.
- - 💻 Sou **autodidata** na **programação**.
+ - 💻 Estou estudando, reactjs, react-native e nodejs.
  - 💬 Pergunte-me sobre qualquer coisa.
  - 📫 Como me contatar: <thatianeormindo@gmail.com>
  - 🐈 **Curiosidade1**: Sou mãe de dois gatos com nome de lobo; **Nymeria** e **Fantasma**.
