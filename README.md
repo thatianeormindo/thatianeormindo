@@ -1,34 +1,28 @@
- 
- # 👋 Ola sou a **Thati** sou **desenvolvedor(a)** front-end 
- ***
- - 💸 Sou **estudante** em **Gestão Financeira**.
- - 💻 Estou estudando, reactjs.
- - 💬 Pergunte-me sobre qualquer coisa.
- - 📫 Como me contatar: <thatianeormindo@gmail.com>
- - 🐈 **Curiosidade1**: Sou mãe de dois gatos com nome de lobo; **Nymeria** e **Fantasma**.
- - 🎧 **Curiosidade2**: Amo codar ouvindo musica. Na realidade eu amo musica em tudo. 
- - 🎮  **Curiosidade3**: Me convide para live, partida online, jogos de tiro, sobrevivencia etc.
- - 🚀 Estou participando do **Challenge** [#100DaysOfCode](https://github.com/thatianeormindo/100-days-of-code/blob/master/log.md) data de inicio 09/09/2022 meu objetivo é colocar em pratica o conteudo aprendido em aplicações porque assim vou poder observar e mostrar minha evolução.
- 
-## 💬 Outras redes socias
-***
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thatianeormindo)
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
-[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](21993571811)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
-[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
- 
- 
-## 🛠️ Tech skills
-***
-[![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
-[![Tyscript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
-[![javascript](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
-[![javascript](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
+# Thatiane Malheiros
+**Business Strategist & Automation Architect**  
+*Soluções Inteligentes | Arrow Hub*
 
-[![javascript](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-[![javascript](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
-[![javascript](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)]()
-[![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
-[![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)]()
+---
 
+### 🏹 Visão
+Estrategista focada em transformar operações complexas em fluxos simplificados. Unindo **Gestão Financeira** e **Tecnologia de Ponta**, projeto arquiteturas que eliminam gargalos operacionais e potencializam a escala de negócios.
+
+### 🏗️ Tech Stack
+- **Engine:** Node.js • n8n • TypeScript • APIs REST
+- **Strategy:** Automação de Processos • Business Intelligence • Gestão de Dados
+- **Interface:** React • Design Minimalista • UI/UX Funcional
+
+### 🚀 Key Projects
+- **Arrow Hub:** Inteligência em automação e estratégia tecnológica.
+- **Project Donna:** Agente inteligente de concierge e gestão de demandas.
+- **Agente 007:** Protocolos de segurança e validação de dados em tempo real.
+
+---
+
+### ✨ Personal
+- **Command:** Liderando a tropa (Nymeria, Panda & Pantera).
+- **Energy:** Movida por música, estratégia e a busca constante pela eficiência na **Caverna de Adulão**.
+
+[LinkedIn](https://www.linkedin.com/in/thatianeormindo) • [E-mail](mailto:thatianeormindo@gmail.com) • [Portfólio]()
+
+> "A tecnologia serve ao negócio, e não o contrário. Eficiência é o resultado de uma estratégia bem executada."
