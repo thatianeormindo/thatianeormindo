@@ -20,8 +20,10 @@ Estrategista focada em transformar operações complexas em fluxos simplificados
 ---
 
 ### ✨ Personal
-- **Command:** Liderando a tropa (Nymeria, Panda & Pantera).
+- **Command:** Liderando a tropa (**Nymeria**, **Panda** & **Pantera**).
 - **Energy:** Movida por música, estratégia e a busca constante pela eficiência na **Caverna de Adulão**.
+
+***
 
 [LinkedIn](https://www.linkedin.com/in/thatianeormindo) • [E-mail](mailto:thatianeormindo@gmail.com) • [Portfólio]()
 
